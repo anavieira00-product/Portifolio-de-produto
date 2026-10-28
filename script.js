@@ -11,8 +11,8 @@ techs:[
 "Métricas"
 ],
 
-github:"https://github.com/anavieira00-product/Portif-lio---Marketplace",
-deploy:"https://anavieira00-product.github.io/Portif-lio---Marketplace/",
+github:"https://github.com/anavieira00-product/Portifolio-marketplace",
+deploy:"https://anavieira00-product.github.io/Portifolio-marketplace/",
 
 images:[
 "img/projetos/1abertura.png",
@@ -33,8 +33,8 @@ techs:[
 "Compliance"
 ],
 
-github:"https://github.com/anavieira00-product/Portif-lio---FrotaPro-Gest-o-Preventiva-Sinistros-de-Frota",
-deploy:"https://anavieira00-product.github.io/Portif-lio---FrotaPro-Gest-o-Preventiva-Sinistros-de-Frota/",
+github:"https://github.com/anavieira00-product/Portifolio-frotapro-sinistros",
+deploy:"https://anavieira00-product.github.io/Portifolio-frotapro-sinistros/",
 
 images:[
 "img/projetos/2abertura.png",
@@ -55,8 +55,8 @@ techs:[
 "Testes com Usuários"
 ],
 
-github:"https://github.com/anavieira00-product/Bartho-assistente-virtual",
-deploy:"https://anavieira00-product.github.io/Bartho-assistente-virtual/",
+github:"https://github.com/anavieira00-product/Portifolio-Bartho-IA",
+deploy:"https://anavieira00-product.github.io/Portifolio-Bartho-IA/",
 
 images:[
 "img/projetos/bartho personagem.png",
